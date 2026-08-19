@@ -1,0 +1,17 @@
+{
+  "name": "cinema-watchdog",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.15",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}
